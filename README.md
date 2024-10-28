@@ -58,7 +58,7 @@
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone https://github.com/username/c-rpn.git
+   git clone https://github.com/totallynotbuzzismaloy/c-rpn.git
    ```
 2. **Сборка программы**:
    ```bash
@@ -100,7 +100,7 @@ Complex Numbers Calculator — это проект на языке C, позво
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone https://github.com/username/complex-numbers-calc.git
+   git clone https://github.com/totallynotbuzzismaloy/complex-numbers-calc.git
    cd complex-numbers-calc
    ```
 2. **Сборка программы**:
