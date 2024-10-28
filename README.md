@@ -235,7 +235,7 @@ SpinningCube создает эффект вращающегося куба, ис
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone https://github.com/totallynotbuzzismaloy/maySpinningCube.git
+   git clone https://github.com/totallynotbuzzismaloy/mySpinningCube.git
    ```
 2. **Компиляция**:
    ```bash
