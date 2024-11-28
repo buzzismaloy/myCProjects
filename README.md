@@ -1,8 +1,8 @@
 # Оглавление
 
 - [Проект: c-rpn (Калькулятор RPN)](#проект-c-rpn-калькулятор-rpn)
-- [Complex Numbers Calculator](#complex-numbers-calculator)
-- [Операции с Матрицами](#операции-с-матрицами)
+- [Complex Numbers Calculator](#complex-numbers-calculator-complex-numbers-calc))
+- [Операции с Матрицами](#операции-с-матрицами-matrix-operations)
 - [SpinningCube (mySpinningCube)](#spinningcube-myspinningcube)
 - [Игра "Крестики-нолики" на C (tic-tac-toe)](#игра-крестики-нолики-на-c-tic-tac-toe)
 
