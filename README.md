@@ -68,7 +68,7 @@
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone https://github.com/totallynotbuzzismaloy/c-rpn.git
+   git clone https://github.com/buzzismaloy/myCProjects.git
    ```
 2. **Сборка программы**:
    ```bash
@@ -111,8 +111,7 @@ Complex Numbers Calculator — это проект на языке C, позво
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone https://github.com/totallynotbuzzismaloy/complex-numbers-calc.git
-   cd complex-numbers-calc
+   git clone https://github.com/buzzismaloy/myCProjects.git
    ```
 2. **Сборка программы**:
    ```bash
@@ -196,7 +195,7 @@ typedef struct {
 
 ### **Клонируйте репозиторий**
 ```bash
-git clone https://github.com/totallynotbuzzismaloy/matrix-operations.git
+git clone https://github.com/buzzismaloy/myCProjects.git
 ```
 
 ### **Компиляция**
@@ -249,7 +248,7 @@ SpinningCube создает эффект вращающегося куба, ис
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone https://github.com/totallynotbuzzismaloy/mySpinningCube.git
+   git clone https://github.com/buzzismaloy/myCProjects.git
    ```
 2. **Компиляция**:
    ```bash
@@ -345,7 +344,7 @@ SpinningCube создает эффект вращающегося куба, ис
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone https://github.com/totallynotbuzzismaloy/tic-tac-toe.git
+   git clone https://github.com/buzzismaloy/myCProjects.git
    ```
 2. **Скомпилируйте проект с помощью любого C-компилятора (например, gcc)**:
    ```bash
